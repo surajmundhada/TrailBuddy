@@ -1,0 +1,14 @@
+package com.trailbuddy.model;
+
+public enum TripEventType {
+    GUIDE_STARTED_TO_PICKUP,
+    GUIDE_ARRIVED,
+    OTP_GENERATED,
+    OTP_VERIFIED,
+    TRIP_STARTED,
+    TRIP_ONGOING,
+    SOS_TRIGGERED,
+    LOCATION_UPDATE,
+    EXPERIENCE_UNLOCKED,
+    TRIP_COMPLETED
+}

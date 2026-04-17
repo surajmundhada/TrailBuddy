@@ -1,0 +1,37 @@
+# --- Security & Credentials ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Java / Spring Boot (Backend) ---
+backend/target/
+backend/.m2/
+backend/*.jar
+backend/*.war
+*.class
+.factorypath
+
+# --- Node / Next.js (Frontend) ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+frontend/.next-env.d.ts
+frontend/.pnp.*
+
+# --- IDE & Editor Settings ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+.project
+.settings/
+.classpath
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
