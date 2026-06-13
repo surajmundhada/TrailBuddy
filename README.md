@@ -23,6 +23,10 @@ The demo covers:
 * Admin Dashboard
 * Guide Verification System
 
+## 🏗️ System Architecture
+
+![TrailBuddy Architecture](docs/architecture.png)
+
 ## 👥 Team
 
 Developed as part of the MVPM Startup Hackathon by:
