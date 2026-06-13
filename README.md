@@ -76,7 +76,7 @@ TrailBuddy bridges this gap by creating a trusted marketplace where travelers ca
 - **Heroicons** for icons
 
 ### Backend
-- **Spring Boot 3.2** (Java 17)
+- **Spring Boot 3.2** (Java 21)
 - **Spring Security** with JWT
 - **Spring Data JPA** with Hibernate
 - **MySQL 8.0** database
