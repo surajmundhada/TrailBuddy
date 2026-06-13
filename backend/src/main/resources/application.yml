@@ -7,12 +7,12 @@ spring:
   application:
     name: trailbuddy-backend
   
-  datasource:
-    url: jdbc:mysql://localhost:3306/trailbuddy?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true
-    username: root
-    password: siddhi1624
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    
+datasource:
+  url: jdbc:mysql://localhost:3306/trailbuddy?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true&createDatabaseIfNotExist=true
+  username: ${DB_USERNAME:root}
+  password: ${DB_PASSWORD}
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  
   jpa:
     hibernate:
       # Dev: keep existing schema/data across restarts.
