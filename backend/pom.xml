@@ -123,13 +123,6 @@
             <version>0.2.5</version>
         </dependency>
         
-        <!-- Payment Gateway -->
-        <dependency>
-            <groupId>com.razorpay</groupId>
-            <artifactId>razorpay-java</artifactId>
-            <version>1.4.5</version>
-        </dependency>
-        
         <!-- OpenAI API -->
         <dependency>
             <groupId>com.theokanning.openai-gpt3-java</groupId>
