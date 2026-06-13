@@ -1,9 +1,44 @@
-# TrailBuddy
-Top 10 Finalist at MVPM Startup Hackathon. 
-An enterprise-grade travel marketplace built with Java 21 and Spring Boot 3, featuring high-concurrency handling via Virtual Threads, JWT-based RBAC, and ACID-compliant financial integrations.
-# TrailBuddy - India's Most Trusted Local Travel Guide Platform
+# TrailBuddy 
 
-A production-ready, enterprise-grade web application that connects travelers with verified local guides across India. Built with modern technology stack and comprehensive features for safe, authentic travel experiences.
+🏆 **Top 10 Finalist – MVPM Startup Hackathon**
+
+TrailBuddy is an AI-powered travel marketplace that connects travelers with verified local guides across India. The platform combines intelligent trip planning, secure bookings, real-time communication, and hyperlocal discovery to help users explore destinations through authentic local experiences.
+
+Built using **React, Spring Boot, MySQL, JWT Authentication, WebSockets, Google Places API, and OpenAI**.
+
+## 🎥 Project Demo
+
+Watch the complete project walkthrough:
+
+🔗 **Demo Video:** https://drive.google.com/file/d/1NRiZEqoY8RYdHwQFtdweyVpoY_kOrQ6d/view?usp=sharing
+
+The demo covers:
+
+* User Authentication & Authorization
+* Guide Discovery & Search
+* AI-Powered Trip Planning
+* Booking Workflow
+* Payment Integration
+* Real-Time Chat
+* Admin Dashboard
+* Guide Verification System
+
+## 👥 Team
+
+Developed as part of the MVPM Startup Hackathon by:
+
+* **Suraj Mundhada**
+* **Yash Agiwal**
+* **Shrikant Somani**
+
+## 📌 Problem Statement
+
+Modern travelers often struggle to find trustworthy local guides, authentic cultural experiences, and personalized travel plans. Existing travel platforms focus primarily on transportation and accommodation while overlooking local expertise and community-driven experiences.
+
+## 💡 Solution
+
+TrailBuddy bridges this gap by creating a trusted marketplace where travelers can discover verified local guides, generate AI-assisted travel itineraries, book experiences securely, and communicate directly with guides before and during their journeys.
+
 
 ## 🌟 Features
 
@@ -278,23 +313,6 @@ Required environment variables:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
-
-For support, please contact:
-- Email: support@trailbuddy.com
-- Phone: +91-8877665544
-- Create an issue on GitHub
-
-## 🌟 Acknowledgments
-
-- **Spring Boot Team** for the amazing framework
-- **React Team** for the frontend library
-- **Tailwind CSS** for the utility-first CSS framework
-- **OpenAI** for AI capabilities
-- **Razorpay** for payment gateway
-- **Google Maps Platform** for location services
-
----
 
 Built with ❤️ for travelers across India 🇮🇳
 
